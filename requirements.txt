@@ -1,0 +1,27 @@
+# ============================================================
+# UniMatch AI - Requirements
+# Compatible con Python 3.11+ (sin versiones fijas)
+# ============================================================
+
+# PDF Processing
+PyMuPDF
+pdfplumber
+
+# Embeddings & ML
+sentence-transformers
+torch
+
+# Vector Database
+chromadb
+
+# LLM API
+groq
+
+# Frontend
+streamlit
+
+# Utilities
+python-dotenv
+numpy
+pandas
+tqdm
